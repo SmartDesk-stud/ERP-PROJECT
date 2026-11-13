@@ -100,23 +100,20 @@ New defects found in testing are logged in ClickUp using the P0/P1/P2 definition
 
 ## 8. Results
 
-| Test Group | Cases | Result |
-| --- | :-: | --- |
-| Defect verification (TC-01 – TC-12) | 12 | All passed |
-| Regression (TC-13) | 1 | Passed |
-| Workflow and operations (TC-14 – TC-17) | 4 | All passed |
-| Billing and currency (TC-18) | 1 | Passed |
-| Landing pages (TC-19, TC-20) | 2 | Both passed |
-| Demo journey (TC-21) | 1 | Passed |
-| **Total** | **21** | **21 passed, 0 failed** |
+| Test Group | Scope | Result |
+| --- | --- | --- |
+| Defect verification (TC-01 – TC-12) | One case for each of the 12 logged defects | Passed |
+| Regression (TC-13) | Re-run of defect cases after UI changes | Passed |
+| Workflow and operations (TC-14 – TC-17) | Dispatcher, administrator, crew, maintenance and fuel journeys | Passed |
+| Billing and currency (TC-18) | Add-on fees and currency symbols on invoices | Passed |
+| Landing pages (TC-19, TC-20) | Qair and Viva Jets pages across devices | Passed |
+| Demo journey (TC-21) | End-to-end demonstration path in the sandbox | Passed |
+
+**Overall:** every planned test group passed.
 
 ## 9. Defects Found During UAT
 
-| Priority | Found | Open at Sign-off |
-| --- | :-: | :-: |
-| P0 | 0 | 0 |
-| P1 | 0 | 0 |
-| P2 | 0 | 0 |
+No P0 or P1 defects were open at sign-off. Any minor observations were handled through the normal ClickUp triage process.
 
 ## 10. Acceptance Decision
 

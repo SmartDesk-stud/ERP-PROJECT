@@ -119,7 +119,7 @@ A status report is issued every Friday and at each phase gate. Overall health us
 | :-: | :-: | :-: | :-: |
 | Green | Green | Green | Green |
 
-- **Accomplished:** UAT passed (21 of 21 test cases); commercial demo held; project accepted by the Project Lead.
+- **Accomplished:** UAT passed (all planned test groups); commercial demo held; project accepted by the Project Lead.
 - **Next:** Post-launch stabilization through March 31, 2026; closure report.
 - **Risks:** All eight register risks closed or monitored; no open P0/P1 defects.
 - **Decisions needed:** Phase 6 gate and project acceptance (granted).

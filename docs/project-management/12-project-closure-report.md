@@ -58,7 +58,7 @@ All six phases were delivered within the charter dates (January 5 – February 2
 | Resolved and verified | 12 |
 | Open at closure | 0 |
 | Reopened after verification | 0 |
-| UAT test cases | 21 executed, 21 passed |
+| UAT | All planned test groups passed |
 | P0/P1 defects found in UAT | 0 |
 | Rollbacks at release | 0 |
 

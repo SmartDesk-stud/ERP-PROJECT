@@ -120,8 +120,8 @@ The project uses a hybrid model: **Agile sprint execution inside Waterfall phase
 | Measure | Result |
 | --- | --- |
 | Goal met | Yes |
-| Planned defects | 6 (D-01 – D-06) plus investigation start for D-07 / D-08 |
-| Resolved and verified | 6 of 6 |
+| Planned defects | D-01 – D-06, plus investigation start for D-07 / D-08 |
+| Resolved and verified | All planned defects |
 | Carried over | None |
 | Risks and issues | R-01 materialized: maintenance and fuel failures confirmed as backend-related; handled through CR-002 |
 | Retrospective | Early code inspection made the later fixes predictable; keep verification inside the same sprint as the fix |
@@ -131,8 +131,8 @@ The project uses a hybrid model: **Agile sprint execution inside Waterfall phase
 | Measure | Result |
 | --- | --- |
 | Goal met | Yes |
-| Planned defects | 6 (D-07 – D-12) |
-| Resolved and verified | 6 of 6 |
+| Planned defects | D-07 – D-12 |
+| Resolved and verified | All planned defects |
 | Carried over | None |
 | Phase 2 gate | All P1 defects resolved; gate approved by the Project Lead |
 | Retrospective | Dedicated invoice and currency test cases caught formatting differences before verification |
@@ -175,16 +175,9 @@ The project uses a hybrid model: **Agile sprint execution inside Waterfall phase
 | Carried over | None |
 | Phase 6 gate | Approved; project moved to post-launch stabilization |
 
-## 5. Velocity and Delivery Summary
+## 5. Delivery Summary
 
-| Sprint | Planned Items | Completed | Carry-over |
-| --- | :-: | :-: | :-: |
-| Sprint 1 | 6 defects | 6 | 0 |
-| Sprint 2 | 6 defects | 6 | 0 |
-| Sprint 3 | 6 work packages | 6 | 0 |
-| Sprint 4 | 4 work packages | 4 | 0 |
-| Sprint 5 | 5 work packages | 5 | 0 |
-| Sprint 6 | 4 work packages | 4 | 0 |
+All planned work in every sprint was completed and no items were carried over. Every sprint goal was met, and each phase gate was approved by the Project Lead.
 
 ## 6. Related Documents
 
